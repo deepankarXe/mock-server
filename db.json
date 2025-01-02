@@ -1,0 +1,40 @@
+{
+  "bonus": [
+    {
+      "id": "1",
+      "type": ["REGISTRATION", "TRANSACTION"],
+      "billerId": "AADN2W32K11",
+      "subBilledId": "AADN2W32K11",
+      "bonusValue": 250,
+      "isApproved": false,
+      "isPublished": false,
+      "isRejected": false,
+      "createdAt": "2024-12-31T10:10:00.786Z",
+      "updatedAt": ""
+    },
+    {
+      "id": "2",
+      "type": ["REGISTRATION"],
+      "billerId": "AADN2W32K12",
+      "subBilledId": "AADN2W32K12",
+      "bonusValue": 251,
+      "isApproved": false,
+      "isPublished": false,
+      "isRejected": false,
+      "createdAt": "2024-12-31T10:15:00.786Z",
+      "updatedAt": ""
+    },
+    {
+      "id": "3",
+      "type": ["TRANSACTION"],
+      "billerId": "AADN2W32K13",
+      "subBilledId": "AADN2W32K13",
+      "bonusValue": 252,
+      "isApproved": false,
+      "isPublished": false,
+      "isRejected": false,
+      "createdAt": "2024-12-31T10:20:00.786Z",
+      "updatedAt": ""
+    }
+  ]
+}
