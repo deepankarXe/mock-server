@@ -10,7 +10,8 @@
       "isPublished": false,
       "isRejected": false,
       "createdAt": "2024-12-31T10:10:00.786Z",
-      "updatedAt": ""
+      "updatedAt": "",
+      "status": "REJECTED"
     },
     {
       "id": "2",
@@ -22,7 +23,8 @@
       "isPublished": false,
       "isRejected": false,
       "createdAt": "2024-12-31T10:15:00.786Z",
-      "updatedAt": ""
+      "updatedAt": "",
+      "status": "DRAFT"
     },
     {
       "id": "3",
@@ -34,7 +36,8 @@
       "isPublished": false,
       "isRejected": false,
       "createdAt": "2024-12-31T10:20:00.786Z",
-      "updatedAt": ""
+      "updatedAt": "",
+      "status": "PUBLISHED"
     }
   ]
 }
